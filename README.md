@@ -7,7 +7,7 @@ https://img.shields.io/badge/Owasp-Top%2010-red
 https://img.shields.io/badge/license-MIT-green
 
 Date: 2025-01-15
-Author: [Your Name]
+Author: [ziad mobarek]
 Audience: Developers, Security Engineers, Bug Bounty Hunters
 
 ---
